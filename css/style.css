@@ -1,0 +1,90 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC:regular,700);
+@import url(https://fonts.googleapis.com/css?family=Pangolin:regular);
+@import "null.css";
+
+body {
+	width: 1140px;
+	margin: 0 auto;
+	font-family: "Pangolin", sans-serif;
+	font-size: 25px;
+	color: #080707;
+}
+.wripper {
+	overflow: hidden;
+}
+header {
+	padding: 15px 0 0 0;
+}
+a {
+	text-decoration: underline;
+}
+.list {
+	width: 231px;
+	display: block;
+	margin: 0 0 0 auto;
+	font-size: 23px;
+}
+.top {
+	padding: 25px 0 50px 0;
+}
+h1 {
+	font-family: "Amatic SC", sans-serif;
+	font-size: 56px;
+	font-weight: 700;
+	text-align: center;
+	margin: 0 0 15px 0;
+}
+.top img {
+	width: 50%;
+	margin: 0 10px 0 0;
+}
+.program {
+	padding: 0 0 20px 0;
+}
+.description {
+	display: inline-block;
+	width: 48.5%;
+	text-align: justify;
+}
+.day {
+	padding: 0 0 30px 0;
+}
+.day-title {
+	font-family: "Amatic SC", sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+	margin: 0 0 15px 0;
+}
+.day-description {
+	margin: 0 0 10px 0;
+	text-align: justify;
+}
+.day img {
+	width: 49.3%;
+}
+.right {
+	margin: 0 0 0 10px;
+}
+.center {
+	display: block;
+	margin: 0 auto;
+}
+.scroll {
+	max-height: 200px;
+	overflow: auto;
+}
+.source {
+	color: #4c00ff;
+	font-size: 20px;
+}
+footer {
+	padding: 0 0 15px 0;
+}
+.footer img {
+	width: 50px;
+}
+.arrow {
+	width: 50px;
+	display: block;
+	margin: 0 auto;
+}
